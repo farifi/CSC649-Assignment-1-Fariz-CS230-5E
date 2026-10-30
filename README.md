@@ -1,2 +1,6 @@
-# CSC649-Assignment-1-Fariz-CS230-5E
-CSC649 Proposal: 
+# Author
+## CSC649 
+Name: Muhammad Fariz bin Zaimi
+Group: CS230 5E
+
+github link: https://github.com/farifi
