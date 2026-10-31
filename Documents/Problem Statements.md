@@ -1,10 +1,6 @@
 # Problem Statement and Scope
 ## Problem Statement
-Trees in urban area have many benefits such as for environmental & climate where the trees can provide cooling the urban air, act as air pollution filter and biodiversity support, its also provide health and social benefits like mental well being and economic benefit such as cooler environment can reduce the use of air condition therefore lower electricity bill. 
-
-But old and mature trees can become fragile that have the potential to fall down which can be safety concern for people surrounding, therefore leading to accidents and property damages. Here especially in Malaysia, where the unpredictable weather can further extend the risks of old and weak trees to fall. Recently there was an incident involving 2 UiTM lecturer who got injured when crushed by a tree while driving in february 2026 at Section 7, Shah Alam (Bernama, 2026a). 
-
-The statistics from Jabatan Bomba dan Penyelamat Malaysia (JBPM) recorded that 26,001 fallen tree cases nationwide from 2021 to June 2026, resulting in 50 fatalities and 243 injuries. Furthermore, JBPM director-general said that the main factors of tree falls are the strong winds, heavy and continuous rain, the tree health condition and maintenance (Bernama, 2026b).
+Many roadside and park trees must be inspect by local council officers in Malaysia, but tree risk assessment still relies heavily on physical observation of trunks cracks, decay, leaning angle, roots and soil conditions (Bernama, 2026a). This is labour-intensive, so high-risk trees can be missed and endanger road users and residents nearby. The statistics from the Fire and Rescue Department recorded 26,001 fallen-tree cases from 2021 to June 2025, Resulting 50 fatalities and 243 injuries (Bernama, 2026b). Recently, there was an incident involving two UiTM lecturer who got injured when crushed by a tree while driving in february 2026 at Section 7, Shah Alam (Bernama, 2026a).
 
 ## User and Stakeholders
 1. Local council officers and landscape staff - roadside and park tress inspector, use CNN technique risk results to prioritise inspections and decide on pruning or removal.
@@ -14,3 +10,20 @@ The statistics from Jabatan Bomba dan Penyelamat Malaysia (JBPM) recorded that 2
 3. Public and residents - report suspicious trees with photo, then received a simple risk indication and put location.
 
 4. Research and technical experts - supply reviewed species and defect knowledge, and validate the model's accuracy for tropical trees.
+
+## Scope
+
+**In scope:** 
+1. Using a CNN to classify visible defects and visible warning signs sucha as trunk cavity, cracks, leaning angle and dead branches 
+2. The species of tree will be Angsana AKA *Pterocarpus indicus*, common tree species in Malaysian urban areas
+3. Giving a risk level with a accurate prediction score
+4. Recommending detailed arborist inspection for high-risk trees.
+
+**Out of scope:** 
+1. Direct measurement of internal decay or root condition because its needs tools such as sonic tomography or ground-penetrating radar
+2. GIS mapping dashboards
+3. Other tree species 
+4. Weather or wind forecasting
+5. Drones or LiDAR
+
+References are listed in [references.md](references.md).
