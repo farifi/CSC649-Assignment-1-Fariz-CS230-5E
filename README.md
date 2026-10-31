@@ -4,7 +4,7 @@ Proposal (CSC649 - Special Topics in Computer Science) - Convolutional Neural Ne
 # Status
 Still in draft as the assignment still in progress.
 
-# Technology Used
+# Technology to Use
 Convolutional Neural Network and Geographic Information System (GIS)
 
 # Author
