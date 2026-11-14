@@ -32,10 +32,11 @@ Draft (Week 7): Polishing and fill the requirement gap of the assignment.
 ## Technology
 Computer vision: Convolutional Neural Network (ResNet-50 with transfer learning).
 
-## Roadmap (proposed)
+## Roadmap
 - [x] Problem statement and scope
-- [x] Requirements and user stories
+- [x] Requirements
 - [x] Technology brief and references
+- [ ] User stories
 
 ## Author
 Name: Muhammad Fariz bin Zaimi
