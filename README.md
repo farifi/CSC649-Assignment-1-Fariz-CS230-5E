@@ -6,16 +6,35 @@ Proposal for CSC649 Special Topics in Computer Science: using a Convolutional Ne
 The tree risk assessment in Malaysia still heavily relies on manual inspection, it's time consuming and labor intensive, missing a high risk tree can lead to tree falls causing property damages and injuries. 
 
 ## Documents
-- [Problem statement and scope](Documents/Problem%20Statements.md)
-- [Requirements](Documents/Requirements.md)
-- [Technology brief](Documents/Technology.md)
-- [References](Documents/References.md)
+- [Problem statement and scope](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User stories](docs/user-stories.md)
+- [Technology brief](docs/technology.md)
+- [References](docs/references.md)
+
+## Project structure
+```
+.
+├── README.md
+├── docs/
+│   ├── problem-statement.md
+│   ├── requirements.md
+│   ├── user-stories.md
+│   ├── technology.md
+│   └── references.md
+└── src/            (empty for now: code comes after the proposal stage)
+```
 
 ## Status
-Draft (Week 5): problem statement, scope, requirements and technology brief draft.
+Draft (Week 7): Polishing and fill the requirement gap of the assignment.
 
 ## Technology
 Computer vision: Convolutional Neural Network (ResNet-50 with transfer learning).
+
+## Roadmap (proposed)
+- [x] Problem statement and scope
+- [x] Requirements and user stories
+- [x] Technology brief and references
 
 ## Author
 Name: Muhammad Fariz bin Zaimi
