@@ -16,13 +16,12 @@ The tree risk assessment in Malaysia still heavily relies on manual inspection, 
 ```
 .
 ├── README.md
-├── docs/
-│   ├── problem-statement.md
-│   ├── requirements.md
-│   ├── user-stories.md
-│   ├── technology.md
-│   └── references.md
-└── src/            (empty for now: code comes after the proposal stage)
+└── docs/
+    ├── problem-statement.md
+    ├── requirements.md
+    ├── user-stories.md
+    ├── technology.md
+    └── references.md
 ```
 
 ## Status
