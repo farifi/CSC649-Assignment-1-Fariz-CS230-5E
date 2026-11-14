@@ -17,7 +17,7 @@ Many roadside and park trees must be inspect by local council officers in Malays
 
 **In scope:** 
 1. Using a CNN to classify visible defects and visible warning signs such as trunk cavity, cracks, leaning angle and dead branches.
-2. The species of tree will be Angsana AKA *Pterocarpus indicus*, common tree species in Malaysian urban areas.
+2. Focuses on Angsana species, also known as Pterocarpus indicus in scientific name, as they are common in urban areas in Malaysia.
 3. Giving a risk level such as low, moderate or high with confidence score .
 4. Recommending detailed arborist inspection for high risk trees.
 
