@@ -16,6 +16,8 @@ The tree risk assessment in Malaysia still heavily relies on manual inspection, 
 ```
 .
 ├── README.md
+├── LICENSE
+├── .gitignore
 └── docs/
     ├── problem-statement.md
     ├── requirements.md
