@@ -3,6 +3,7 @@
 **Technology:** Computer vision: Convolutional Neural Network (ResNet-50 with transfer learning).
 
 ![Structure of CNN](image-1.png)
+
 *Figure 1: Structure of CNN*
 
 ## Reason for this technology
