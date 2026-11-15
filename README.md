@@ -37,6 +37,7 @@ Computer vision: Convolutional Neural Network (ResNet-50 with transfer learning)
 - [x] Requirements
 - [x] Technology brief and references
 - [x] User stories
+- [ ] Add neccessary Diagrams  
 
 ## Author
 Name: Muhammad Fariz bin Zaimi
