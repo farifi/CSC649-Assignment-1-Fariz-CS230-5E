@@ -20,8 +20,8 @@ Chilamkurthy, S. (2025). Transfer learning for computer vision tutorial. PyTorch
 
 PyTorch. (n.d.). resnet50. TorchVision documentation. https://docs.pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html
 
-Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2019). Grad-CAM: Visual explanations from deep networks via gradient-based localization. International Journal of Computer Vision. https://doi.org/10.1007/s11263-019-01228-7
+Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2019). Grad-CAM: Visual explanations from deep networks via gradient-based localization. *International Journal of Computer Vision.* https://doi.org/10.1007/s11263-019-01228-7
 
-Xu, G., Wang, X., Wu, X., Leng, X., & Xu, Y. (2025). Development of skip connection in deep neural networks for computer vision and medical image analysis: A survey. Engineering Applications of Artificial Intelligence, 142, Article 109890. https://doi.org/10.1016/j.engappai.2024.109890
+Xu, G., Wang, X., Wu, X., Leng, X., & Xu, Y. (2025). Development of skip connection in deep neural networks for computer vision and medical image analysis: A survey. *Engineering Applications of Artificial Intelligence, 142*, Article 109890. https://doi.org/10.1016/j.engappai.2024.109890
 
-Zhao, X., Wang, L., Zhang, Y., Han, X., Deveci, M., & Parmar, M. (2024). A review of convolutional neural networks in computer vision. Artificial Intelligence Review, 57, Article 99. https://doi.org/10.1007/s10462-024-10721-6
+Zhao, X., Wang, L., Zhang, Y., Han, X., Deveci, M., & Parmar, M. (2024). A review of convolutional neural networks in computer vision. *Artificial Intelligence Review, 57*, Article 99. https://doi.org/10.1007/s10462-024-10721-6
