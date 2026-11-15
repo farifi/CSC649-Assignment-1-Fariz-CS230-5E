@@ -37,10 +37,10 @@ Computer vision: Convolutional Neural Network (ResNet-50 with transfer learning)
 - [x] Requirements
 - [x] Technology brief and references
 - [x] User stories
-- [ ] Add neccessary Diagrams  
+- [x] Add neccessary Diagrams/Images
 
 ## Author
-Name: Muhammad Fariz bin Zaimi
+Name: Muhammad Fariz bin Zaimi 
 Course: CSC649 - Special Topics in Computer Science
 Profile github link: https://github.com/farifi
 Assignment Repository github link: https://github.com/farifi/CSC649-Assignment-1-Fariz-CS230-5E
