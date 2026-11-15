@@ -2,6 +2,9 @@
 
 **Technology:** Computer vision: Convolutional Neural Network (ResNet-50 with transfer learning).
 
+![Structure of CNN](image-1.png)
+*Figure 1: Structure of CNN*
+
 ## Reason for this technology
 Tree risk assessment in Malaysia relies mainly on physical observation of decay, cracks, canopy imbalance, leaning and soil conditions (Bernama, 2026a). Fatima et al. (2026) note that visual tree assessment is labour intensive and time consuming, it's can lead to human error depending on the arborist skills, and tools such as resistographs are costly. A CNN can learn to recognise visible defects from photos, giving a faster and more consistent first screening that helps arborists decide where to look first, but they're not replacing the arborist, it will be just a tool for arborist to be able to work with more ease and faster.
 

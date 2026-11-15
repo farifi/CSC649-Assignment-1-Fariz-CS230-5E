@@ -2,6 +2,9 @@
 ## Problem Statement
 Many roadside and park trees must be inspect by local council officers in Malaysia, but tree risk assessment still relies heavily on physical observation of trunks cracks, decay, leaning angle, roots and soil conditions (Bernama, 2026a). This is labour-intensive, so high-risk trees can be missed and endanger road users and residents nearby. The statistics from the Fire and Rescue Department recorded 26,001 fallen-tree cases from 2021 to June 2025, resulting 50 fatalities and 243 injuries (Bernama, 2026b). Recently, there was an incident involving two UiTM lecturer who got injured when crushed by a tree while driving in february 2026 at Section 7, Shah Alam (Bernama, 2026a).
 
+![Fallen Trees No Longer Marginal Issue, Need Regular Audits And Data-driven Approaches -- JBPM DG](image.png)
+*Figure 1: Fallen Trees No Longer Marginal Issue, Need Regular Audits And Data-driven Approaches -- JBPM DG*
+
 ## User and Stakeholders
 1. Local council officers and landscape staff - roadside and park tress inspector, use CNN technique risk results to prioritise inspections and decide on pruning or removal.
 
