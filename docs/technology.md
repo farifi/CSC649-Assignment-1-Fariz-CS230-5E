@@ -32,7 +32,7 @@ This project focuses on Angsana tree as it very common urban tree in Malaysia. R
 | Grad-CAM (proposed) | Highlights the image region that influenced a prediction |
 | PyTorch or TensorFlow, OpenCV, scikit-learn | Build and train the model, handle images and calculate metrics |
 
-## 7. Fit to the problem
+## Fit to the problem
 **Benefits:** faster, more consistent first screening; lower cost than specialised equipment; results can be reviewed by arborists; the photo can be taken with a phone.
 
 **Risks and limitations:**
